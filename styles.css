@@ -872,12 +872,12 @@ body {
     opacity: 1;
 }
 
-.timeless {
+/* .timeless { */
     /* display: flex;
     flex-direction: row;
     justify-content: center; */
     /* align-items: center; */
-}
+/* } */
 
 
 .product-image img {
